@@ -1,0 +1,100 @@
+
+
+{
+    "MySkills": [
+        {
+            "Title": "Languages + Frameworks",
+            "Skills": [
+                {
+                    "Item": "Type/JavaScript",
+                    "Progress": 100
+                },
+                {
+                    "Item": "HTML + CSS",
+                    "Progress": 100
+                },
+                {
+                    "Item": "Python",
+                    "Progress": 100
+                },
+                {
+                    "Item": "Java",
+                    "Progress": 90
+                },
+                {
+                    "Item": "C#",
+                    "Progress": 75
+                },
+                {
+                    "Item": "Dart",
+                    "Progress": 50
+                }                
+            ]
+        },
+
+        {
+            "Title": "Frameworks",
+            "Skills": [
+                {
+                    "Item": "React",
+                    "Progress": 100
+                },
+                {
+                    "Item": "NextJS",
+                    "Progress": 100
+                },
+                {
+                    "Item": "Angular",
+                    "Progress": 50
+                },
+                {
+                    "Item": "Flutter",
+                    "Progress": 50
+                }
+            ]
+        },
+        
+        {
+            "Title": "Team Skills",
+            "Skills": [
+                {
+                    "Item": "Leadership",
+                    "Progress": 100
+                },
+                {
+                    "Item": "Communication",
+                    "Progress": 100
+                },
+
+                {
+                    "Item": "Problem-Solving",
+                    "Progress": 100
+                },
+
+                {
+                    "Item": "Decision Making",
+                    "Progress": 100
+                },
+                {
+                    "Item": "Planning",
+                    "Progress": 100
+                }
+            ]
+        },
+   
+        {
+            "Title": "Other Skills",
+            "Skills": [
+                {
+                    "Item": "Bug Bounty",
+                    "Progress": 70
+                },
+                {
+                    "Item": "Design",
+                    "Progress": 65
+                }
+            ]
+        }
+    ] 
+    
+}
